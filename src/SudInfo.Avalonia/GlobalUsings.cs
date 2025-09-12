@@ -19,7 +19,7 @@ global using MsBox.Avalonia;
 global using MsBox.Avalonia.Enums;
 
 global using ReactiveUI;
-global using ReactiveUI.Fody.Helpers;
+global using ReactiveUI.SourceGenerators;
 
 global using Splat;
 
