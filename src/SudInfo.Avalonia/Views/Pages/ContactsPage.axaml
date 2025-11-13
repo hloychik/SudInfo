@@ -9,7 +9,6 @@
              xmlns:viewModels="clr-namespace:SudInfo.Avalonia.ViewModels.PageViewModels"
              xmlns:i="using:Avalonia.Xaml.Interactivity"
              xmlns:ia="using:Avalonia.Xaml.Interactions.Core"
-             xmlns:models="using:SudInfo.EfDataAccessLibrary.Models"
              x:DataType="viewModels:ContactsPageViewModel">
   <i:Interaction.Behaviors>
     <ia:EventTriggerBehavior EventName="Initialized">

@@ -9,8 +9,6 @@
         Title="Приложение"
         xmlns:viewModels="clr-namespace:SudInfo.Avalonia.ViewModels.WindowViewModels;assembly=SudInfo.Avalonia"
         xmlns:models="clr-namespace:SudInfo.EfDataAccessLibrary.Models;assembly=SudInfo.EfDataAccessLibrary"
-        xmlns:i="using:Avalonia.Xaml.Interactivity"
-        xmlns:ia="using:Avalonia.Xaml.Interactions.Core"
         WindowStartupLocation="CenterOwner"
         x:DataType="viewModels:AppWindowViewModel"
         CanResize="False"

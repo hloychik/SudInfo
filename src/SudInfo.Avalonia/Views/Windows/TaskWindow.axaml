@@ -9,8 +9,6 @@
         x:Class="SudInfo.Avalonia.Views.Windows.TaskWindow"
         Title="Создание задачи"
         xmlns:viewModels="clr-namespace:SudInfo.Avalonia.ViewModels.WindowViewModels;assembly=SudInfo.Avalonia"
-        xmlns:i="using:Avalonia.Xaml.Interactivity"
-        xmlns:ia="using:Avalonia.Xaml.Interactions.Core"
         WindowStartupLocation="CenterScreen"
         x:DataType="viewModels:TaskWindowViewModel">
   <StackPanel HorizontalAlignment="Center"
